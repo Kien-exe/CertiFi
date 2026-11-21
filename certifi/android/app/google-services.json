@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "59079921496",
+    "project_id": "certifi-8d17f",
+    "storage_bucket": "certifi-8d17f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59079921496:android:df787637d28ed0f2175f2d",
+        "android_client_info": {
+          "package_name": "com.edu.certifi.certifi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59079921496-fpr1dv45bbdhglbli3pc0m3ud1v5rk1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCrA5M3dZgNS8Hd4kS0veS8HyxklqU-x4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59079921496-fpr1dv45bbdhglbli3pc0m3ud1v5rk1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
